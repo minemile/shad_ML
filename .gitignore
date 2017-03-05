@@ -1,0 +1,4 @@
+.git/
+myvenv/
+.ipynb_checkpoints
+*.pyc
